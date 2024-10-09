@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Display a list of all currently running processes with proper alignment and format
+
+# Use ps with custom headers and ensure proper column width
+ps -eo user:10,start:11,command --sort=pid --forest | head -50
