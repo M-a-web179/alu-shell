@@ -30,8 +30,4 @@ echo "manage_my_process restarted"
 *)
 echo "Usage: manage_my_process {start|stop|restart}"
 ;;
-<<<<<<< HEAD
 esac
-=======
-esac 
->>>>>>> 1df16df7c576e82eb52912d132e5e65e8cd84f2d
